@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.13"
 numpy = "^2.2.0"
 networkx = "^3.4.2"
+z3-solver = "^4.13.4.0"
 
 
 [build-system]
